@@ -10,13 +10,17 @@ Pawel
 
 ## What's the purpose of this plugin?
 
-If you use JIRA ServiceDesk as an open support and communication tool you may want to decide to speed up sign up process for your customers.
+If you use JIRA Service Desk as an open support and communication tool you may want to decide to speed up sign up process for your customers.
 
 This plugin lets your customers sign up with their existing account from one of the services like Google, LinkedIn or GitHub.
 
 Once enabled and configured the plugin will attach to JIRA ServiceDesk login page.
 
 ![](easy-sign-ups/customer-portal.png)
+
+[_security_considerations.md](../_security_considerations.md ':include')
+
+[_usage_tracking.md](../_usage_tracking.md ':include')
 
 ## Supported Providers
 
@@ -31,3 +35,5 @@ In case you want to change the address you host your JIRA ServiceDesk you will h
 There is no way for the user to set the password. If the user decides no to use his external account for JIRA ServiceDesk he will have to reset his password.
 
 ## FAQ
+
+[_shared_faq.md](../_shared_faq.md ':include')

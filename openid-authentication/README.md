@@ -8,6 +8,10 @@ I tried to make this plugin self-explanatory but if I failed in that and you hav
 Cheers,
 Pawel
 
+[_security_considerations.md](../_security_considerations.md ':include')
+
+[_usage_tracking.md](../_usage_tracking.md ':include')
+
 ## FAQ
 
 ### Can I use this for Service Desk?
@@ -42,3 +46,5 @@ No, it is not. Users found that they do not work well together. I don't have pla
 ### Plugin doesn't work in JIRA 7.3.0
 
 If you use recent PostgreSQL release you can face `com.atlassian.activeobjects.internal.ActiveObjectsInitException`. If you do please upgrade JDBC driver because the one shipped with JIRA is too old.
+
+[_shared_faq.md](../_shared_faq.md ':include')
