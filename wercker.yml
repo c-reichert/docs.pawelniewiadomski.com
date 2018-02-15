@@ -1,6 +1,5 @@
 box: ruby:2.4.1
 build:
-deploy:
     steps:
         - s3sync:
             key_id: $AWS_ACCESS_KEY_ID
