@@ -48,3 +48,26 @@ No, it is not. Users found that they do not work well together. I don't have pla
 If you use recent PostgreSQL release you can face `com.atlassian.activeobjects.internal.ActiveObjectsInitException`. If you do please upgrade JDBC driver because the one shipped with JIRA is too old.
 
 [_shared_faq.md](../_shared_faq.md ':include')
+
+## EULA
+
+Copied from Atlassian Marketplace Terms of Use
+
+Last Updated: May 31, 2012
+
+> Standard EULA
+
+> (i) The Publisher is the licensor of the Marketplace Product and Atlassian is not a party to the Publisher EULA or this Standard EULA, as applicable.
+
+> (ii) If the Marketplace Product does not include a Publisher EULA that specifies Marketplace Product license rights, Publisher grants you a limited, worldwide, non-exclusive, non-transferable and non-sublicensable license to download and use the Marketplace Product only on hardware systems owned, leased or controlled by you.
+
+> (iii) Licenses granted by Publisher are granted subject to the condition that you must ensure the maximum number of Authorized Users that are able to access and use the Marketplace Product concurrently is equal to the number of User Licenses for which the necessary fees have been paid to Atlassian and/or its authorized partners (each, an "Atlassian Expert"). You may purchase additional User Licenses at any time on payment of the appropriate fees to Atlassian or an Atlassian Expert. "User License" means a license granted under this EULA to you to permit an Authorized User to use the Marketplace Product. The number of User Licenses granted to you is dependent on the fees paid by you. "Authorized User" means a person who accesses and uses a Marketplace Product under the EULA and for which the necessary fees have been paid to Atlassian and/or an Atlassian Expert.
+
+
+> (iv) Any information that Publisher collects from you or your device will be subject to any Publisher EULA, privacy notice, or similar terms that the Publisher provides to you, and will not be subject to the Atlassian Privacy Policy (unless Atlassian is the Publisher).
+
+> (v) You may not modify, reverse engineer, decompile or disassemble the Marketplace Product in whole or in part, or create any derivative works from or sublicense any rights in the Marketplace Product, unless otherwise expressly authorized in writing by Publisher.
+
+> (vi) The Marketplace Product is protected by copyright and other intellectual property laws and treaties. Unless otherwise expressly stated in the Publisher EULA, Publisher or its licensors own all title, copyright and other intellectual property rights in the Marketplace Product, and the Marketplace Product is licensed to you directly by the Publisher, not sold.
+
+> End of Standard EULA 

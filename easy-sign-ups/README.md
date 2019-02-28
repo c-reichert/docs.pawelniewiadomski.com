@@ -1,5 +1,7 @@
 # Easy sign ups for JIRA Service Desk
 
+> **This plugin has been discontinued. It will be supported till 2020-02 - [contact support](mailto:pawelniewiadomski@me.com)**
+
 Hi,
 I'm really happy that you are evaluating [Easy sign ups](https://marketplace.atlassian.com/plugins/easy.social.sign-ups.servicedesk/server/overview)
 
@@ -16,7 +18,7 @@ This plugin lets your customers sign up with their existing account from one of 
 
 Once enabled and configured the plugin will attach to JIRA ServiceDesk login page.
 
-![](easy-sign-ups/customer-portal.png)
+![](customer-portal.png)
 
 [_security_considerations.md](../_security_considerations.md ':include')
 
